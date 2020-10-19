@@ -1,4 +1,6 @@
-# Pandemio
+# PRACTICA DE MODELADO
+## Pandemio
+
 [Plataforma de rastreo para tiempos de pandemia]
 
 El Ministro de Sanidad se ha puesto en contacto con usted para realizar una plataforma que permita 
